@@ -1,0 +1,3 @@
+include ':ttkx'
+include ':app'
+rootProject.name = "DtERP"
